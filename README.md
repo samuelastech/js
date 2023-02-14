@@ -1,5 +1,9 @@
 # JavaScript
 
+A place to learn JavaScript using *Markdown* and *Jupyter Notebook*. Inside `src` you'll find notebooks that explain JavaScript features with some code examples.
+
+Feel free to contribute adding new notebooks.
+
 ## Usage
 
 IJavascript is a Javascript kernel for the Jupyter notebook. Install it by running:
